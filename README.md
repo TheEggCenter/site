@@ -1,2 +1,2 @@
-# theeggcenter
-github for the egg center website
+# The Egg Center Site
+GitHub repository for The Egg Center Site
