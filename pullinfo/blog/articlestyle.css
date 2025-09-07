@@ -1,0 +1,20 @@
+@font-face {
+  font-family: yoster;
+  src: url(https://litter.catbox.moe/jzi48ietr4bkfz4v.ttf);
+}
+
+@font-face {
+  font-family: kiwisoda;
+  src: url(https://litter.catbox.moe/ibaw7e90v3wzpj85.ttf);
+}
+
+h1, h2, h3, h4, h6 {
+  font-family: kiwisoda;
+}
+
+*{
+  font-family: yoster;
+  background-color: #626394;
+  color: white;
+  letter-spacing: 1px;
+}

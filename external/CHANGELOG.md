@@ -11,8 +11,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Organized and cleaned up the assets folder
 
-- Moved external/non-pulled information to the external folder in the repository (excluding README.md)
-
 ### Removed
 
 - Removed loading bar from site startup
